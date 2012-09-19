@@ -22,8 +22,8 @@
 \tabular{ll}{
 Package: \tab astroFns\cr
 Type: \tab Package\cr
-Version: \tab 4.0-0\cr
-Date: \tab 2012-07-05\cr
+Version: \tab 4.1-0\cr
+Date: \tab 2012-09-19\cr
 License: \tab GPL (>=2) \cr
 LazyLoad: \tab yes\cr
 }
