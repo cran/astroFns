@@ -1,7 +1,7 @@
-f30dde1b210cf3afd15a134e5a812e80 *DESCRIPTION
-08bfe5f72fd830ee7e440badd33e2b38 *NAMESPACE
+0c640ae6fdcdff61951343aac87ad76b *DESCRIPTION
+d82f1d4daff9d1add939ac57d0b3a15a *NAMESPACE
 fa27e31d25809a663c5180bfbe74e460 *R/angSep.R
-d20c3acfb2780521c5a988740d67b79f *R/azimuth.R
+251e1f8d9bc853f814098a7514e088f2 *R/azimuth.R
 4729420a123153ecea8890cf55c4951f *R/b2j.R
 30cbfa88ae8fa582bf5cc95becf9f4cc *R/beamDiskOverlap.R
 5543b380f0764eaa52bd6db2fdaa0610 *R/dmjd2ut.R
@@ -15,12 +15,12 @@ d82191ad15c01990855048fb20ed4355 *R/hms2rad.R
 7b6406d9e50ff294ec3e90e6fe5793cc *R/print.fracHrs.R
 e44a182d64370308c323a20f88fe182a *R/rad2dms.R
 ccd8278b4ab681c47221df418c19f906 *R/rad2hms.R
-db175be4424909dcf7b8a0a776976f79 *R/ut2dmjd.R
+6e5c3ef07add8a16c832f3f14826e569 *R/ut2dmjd.R
 36e003b68fb364641e69f0b3a300c5d1 *R/ut2ha.R
 8391dce1cd7e2c2e17f914c43664a717 *R/ut2lst.R
 b3cb3185b33c4e5d39bfc7beb1507760 *R/ymd2jd.R
 9f3cf8144f937a31dfa6b7eeace4b086 *man/angSep.Rd
-14ded2f9b0d80be1975e4feef6e9a4e5 *man/astroFns-package.Rd
+ecfbc16caef1bf06a02c0e7e0c41faa9 *man/astroFns-package.Rd
 07f24bab0aca335116ce3ef0a05aac0a *man/b2j.Rd
 b3fa86b223b8e5d8401adeda8764efa6 *man/beamDiskOverlap.Rd
 78cb68e087a5b5c8f22137fc659c75f0 *man/dmjd2ut.Rd

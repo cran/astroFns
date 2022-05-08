@@ -4,7 +4,7 @@
 \alias{astroFns}
 \docType{package}
 \title{
-  Astronomy: time and position functions, misc. utilities
+  Astronomy: Time and Position Functions, Misc. Utilities
     }
 \description{
   Collection of time, position, and utility functions for astronomy:
@@ -22,8 +22,8 @@
 \tabular{ll}{
 Package: \tab astroFns\cr
 Type: \tab Package\cr
-Version: \tab 4.1-0\cr
-Date: \tab 2012-09-19\cr
+Version: \tab 4.2-0\cr
+Date: \tab 2022-05-08\cr
 License: \tab GPL (>=2) \cr
 LazyLoad: \tab yes\cr
 }
